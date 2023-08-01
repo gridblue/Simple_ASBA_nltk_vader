@@ -11,3 +11,5 @@ This is a simple Aspect Based Analysis using NLTK's Vader.
  I will try to make it better when I find new things to add.
 
  Kaggle : https://www.kaggle.com/code/tejusrao/aspect-based-sentiment-analysis
+
+NLTK Vader : https://www.nltk.org/_modules/nltk/sentiment/vader.html
